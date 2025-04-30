@@ -1,5 +1,3 @@
-softeng
-
 # Caesar Cipher - Python Encryption & Decryption
 
 ## Deskripsi
