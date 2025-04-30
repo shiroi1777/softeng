@@ -1,6 +1,6 @@
-# softeng
+softeng
 
-# Judul Caesar Cipher - Python Encryption & Decryption
+# Caesar Cipher - Python Encryption & Decryption
 
 ## Deskripsi
 Proyek ini berisi 2 file untuk melakukan encryption dan decryption dengan metode Caesar Cipher. Terdapat file txt yang isinya merupakan pesan untuk didecrypt. Slahkan dicoba (｡◠‿◠｡)
